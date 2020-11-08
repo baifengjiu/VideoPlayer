@@ -1,0 +1,5 @@
+##ignore this file##
+[Bb]uild
+*.user
+.DS_Store
+.vscode
